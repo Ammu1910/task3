@@ -1,0 +1,65 @@
+.scl_name{
+  width: 50%;
+  height: 10%;
+  text-align: center;
+}
+.first{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo{
+display: flex;
+width: 150px;
+height: 150px;
+border-radius: 40%;
+}
+.middle{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ATTENDENCE{
+    background-color: white;
+    margin-right: 40%;
+    margin-left: 10px;
+    border-radius: 20px;
+    width: 50%;
+    text-align: center;
+    border: solid 2px blue;
+   
+}
+.avatar {
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 40%;
+    margin-left: 25%;
+    
+  }
+
+  /* .table caption-top {
+    display: flex;
+    align-items: center;
+    border: solid 20px black;
+    padding: 2px;
+    
+  } */
+ /* .calender{
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 20px;
+  border: solid 2px blue ;
+  padding: 20px;
+  
+ } */
+.top tr td{
+  border: solid 2px black;
+}
+.bottom tr td{
+  border: solid 2px black;
+  background-color: aqua;
+}
+ 
+
+ 
